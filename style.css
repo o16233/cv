@@ -294,7 +294,7 @@ ul {
 .theme-tgl {
   position: fixed;
   top: 1.6rem;
-  right: 1.6rem;
+  left: 1.6rem;
   z-index: 2000;
   background-color: hsla(0, 0%, 100%, 0.4);
   padding: 1.2rem;
